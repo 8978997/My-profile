@@ -9,12 +9,3 @@ A dedicated Data Science enthusiast with a strong determination to become a prof
 
 Skills
 
--> ##Programming Languages: C, C++, Python
--> ##Libraries/Frameworks: Numpy, Keras, Pandas, scikit learn
--> ##Version Control: Git, GitHub
--> ##Web Technologies: Web Scraping, Beautiful Soup, Requests, Scrapy, Selenium
--> ##Databases: MySQL, Oracle, MongoDB
--> ##Data Visualization: MS Excel, Power BI, Tableau
--> ##Machine Learning/DL: Deep Learning, Machine Learning
-
-📫 you can reach me at my email address i.e. imadkhattak99@gmail.com
