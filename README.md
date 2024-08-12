@@ -1,2 +1,2 @@
-#### Imad ud din khattak
+# Imad ud din khattak
 ## Data Scientist / Data Analytics / Computer Engineer
