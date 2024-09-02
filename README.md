@@ -1,30 +1,30 @@
-# Muhammad Kaleem Ullah
+# Imad du din khattak
 
-## Data Scientist / Data Analytics / Computer Engineer
+## Data Scientist / Data Analytics / ML Engineer
 
-📧 : iammkullah@gmail.com | 📞 : +92 303 2225720
+📧 : imadkhattak99@gmail.com | 📞 : +92 345 9198769
 
 ---
 
 ## About Me
 
-A passionate data scientist with experience of more than 1 year in the fields of e-commerce, Amazon, Walmart, eBay, Shopify, stock exchange, and cryptocurrency. Skilled in Python, Pandas, Numpy, and machine learning model development. Recognized for leadership, and innovation, and a published author committed to contributing valuable insights. Gold Medalist in Computer Engineering, demonstrating academic excellence and effective collaboration as a Google Developer Student Club Lead and Google Developer Group Cloud Islamabad.
+A dedicated Data Science enthusiast with a strong determination to become a proficient Data Scientist. Currently enrolled in the Bachelor of Science in Data Science program at the Institute of Management Sciences Peshawar, on track to graduate in 2025. Possessing a robust understanding of machine learning, data visualization, and statistical techniques. Demonstrates proficiency in both Python and R programming languages.
 
 ---
 
 ## Skills
 
-- **Programming Languages**: C, C++, Python, MATLAB, LabVIEW
-- **Libraries/Frameworks**: Numpy, Keras, Tensorflow, OpenCV
+- **Programming Languages**: Python, R
+- **Libraries/Frameworks**: Numpy, Keras, Tensorflow
 - **Version Control**: Git, GitHub
 - **Web Technologies**: Web Scraping, Beautiful Soup, Requests, Scrapy, Selenium
 - **Databases**: MySQL, SQLite, MongoDB
 - **Data Visualization**: MS Excel, Power BI, Tableau
-- **Machine Learning/DL**: Deep Learning, Machine Learning, LLM, OpenAI
+- **Machine Learning/DL**: Deep Learning, Machine Learning, LLM
 - **Image Processing**: Computer Vision
 
 ---
-## 📫 you can reach me at my email address i.e. iammkullah@gmail.com
+## 📫 you can reach me at my email address i.e. imadkhattak99@gmail.com
 <!---
 - 👋 Hi, i am Muhammad Kaleem Ullah @iammkullah
 - 👀 I’m interested in learning about Python, AI/ML, automation, Data Science, and Data Analytics.
